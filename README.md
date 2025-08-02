@@ -24,7 +24,7 @@ Vá ao VSCode, na mesma janela em que foi aberta no passo 3 e abra o terminal in
 Após o terminal carregar, digite: npm install
 O comando irá instalar em seu VSCode as demais dependências que o código possuir para que o site possa ser aberto em rede local no seu computador.
 
-**6. Run the Development Server**
+**6. Inicie o código**
 
 Uma vez que todas as dependências estão instaladas, o usuário pode iniciar o servidor de forma local em sua rede. Com o terminal ainda aberto, digite o comando: npm run dev
 
